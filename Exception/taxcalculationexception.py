@@ -1,0 +1,2 @@
+class TaxCalculationException(Exception):
+    pass
